@@ -23,7 +23,7 @@
 * Define a function called *write_pickle*. This function should take a file path and some data. Given these parameters, the function should write the contents of the json files to a file called **super_smash_characters.pickle**.
 
 ### Part D
-* Define a function called *read_pickle*. Given a file path, this function opens a pickled file and returns the data. 
+* Define a function called *load_pickle*. Given a file path, this function opens a pickled file and returns the data. 
 * Use this function to print the pickled data from Part C to the screen.
 
 
